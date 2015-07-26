@@ -1,0 +1,30 @@
+body {
+    background-color: indigo;
+    color: cyan
+}
+
+h1 {
+    color: #aaffaa
+}
+
+img {
+    width: 40%
+}
+
+header {
+    border-width: medium;
+    border-style: solid;
+    padding: 1em;
+    background-image: url("../img/kian_country_farm_and_blacksmith.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+a{
+  color: khaki
+}
+
+a:visited {
+    color: green
+}
